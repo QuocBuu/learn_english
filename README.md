@@ -2,6 +2,8 @@
 
 ### Từ vựng: 
 #### Date: 12 / 09 / 2023
+<details>
+
 1)  Máy tính
 - Từ tiếng Anh: Computer
 - Loại từ: Noun
@@ -106,3 +108,4 @@
 - Từ tiếng Anh: Chair
 - Loại từ: Noun
 - Nghĩa tiếng Việt: Loại đồ nội thất có bề mặt ngồi và lưng tựa, được sử dụng để ngồi.
+</details>
